@@ -1,4 +1,4 @@
-# gwt-nvd3
+# gwt-nvd3-jsni
 GWT JSNI wrapper of NVD3 (http://nvd3.org/)
 
 Trying to package this up somehow for others to use.
